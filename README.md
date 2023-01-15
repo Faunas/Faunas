@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faunas</h1>
-<h3 align="center">Fun developer from Russia</h3>
+<h3 align="center">Junior python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faunas&label=Profile%20views&color=0e75b6&style=flat" alt="faunas" /> </p>
 
