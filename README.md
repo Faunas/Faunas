@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faunas" alt="faunas" /></a> </p>
 
-- 🔭 I’m currently working on **kubgu_web_ddos**
+- 🔭 I’m currently working on **verification_key_generator**
 
 - 🌱 I’m currently learning **python, java(?), c++**
 
