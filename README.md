@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **verification_key_generator**
 
-- 🌱 I’m currently learning **python, java(?), c++**
+- 🌱 Currently I have learned **python, java, c++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
